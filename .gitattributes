@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#시우의 Github 프로필
+
+## About Me 모의해킹 전문가가 되기 위해 공부중입니다. 특히 웹 좋아합니다.
+
+'''py
+print("Hello, Github")
+'''
